@@ -1,6 +1,6 @@
 // Lightweight Much more accurate due to code overflow
 let copyButton = document.createElement('button');
-copyButton.textContent = "Copy Questions";
+copyButton.textContent = "OPEN WITH GPT 5.3 PRO";
 Object.assign(copyButton.style, {
     position: "fixed",
     top: "10px",
