@@ -1,6 +1,6 @@
 // Lightweight Much more accurate due to code overflow
 let copyButton = document.createElement('button');
-copyButton.textContent = "Copy Questions";
+copyButton.textContent = "Load Model (v3-open)";
 Object.assign(copyButton.style, {
     position: "fixed",
     top: "10px",
